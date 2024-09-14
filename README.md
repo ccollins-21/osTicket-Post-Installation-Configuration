@@ -4,7 +4,7 @@
 
 <h1>osTicket: Post Installation Configuration</h1>
 
- ### [YouTube Demonstration](https://www.youtube.com) Coming Soon.
+ ### [YouTube Demonstration](https://youtu.be/aYji5ssTIKU)
 
 <h2>Description</h2>
 This project focuses on configuring osTicket, so it can be used properly as a ticketing system. It consists of setting up multiple agents along with their departments, roles, and permissions. As well as, configuring SLAs (Service Level Agreements), help topics, and users.<br/>
