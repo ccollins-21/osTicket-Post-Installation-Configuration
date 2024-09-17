@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/tUnlhRz.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
-<h1>osTicket: Post Installation Configuration</h1>
+<h1>osTicket: Post-Installation Configuration</h1>
 
  ### [YouTube Demonstration](https://youtu.be/aYji5ssTIKU)
 
