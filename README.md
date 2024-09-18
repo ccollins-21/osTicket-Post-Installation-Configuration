@@ -33,7 +33,7 @@ With osTicket open navigate to the Admin Panel by clicking "Admin Panel" located
 <img src="https://imgur.com/xcM6UZs.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents". Enter a role name:  <br/>
+To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents" tab. Enter a role name:  <br/>
 <img src="https://i.imgur.com/n3nofNe.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
